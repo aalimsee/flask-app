@@ -39,6 +39,7 @@ html_template = """
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>Hello, Aaron Lim!</h1>
